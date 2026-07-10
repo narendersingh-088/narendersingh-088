@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Narender Singh</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Engineer from India</h3>
 
 <p align="center">
-🔭 I’m currently working on <b>Hostel Room Allocation System</b><br>
-🌱 I’m currently learning <b>pandas & seaborn</b><br>
+🔭 I’m currently working on <b>leetcode_tracker</b><br>
+🌱 I’m currently learning <b>MySQL</b><br>
 💬 Ask me about <b>Computer Networks, DBMS, OS & OOP</b><br>
 📫 Reach me at <b>narendersingh25022006@gmail.com</b><br>
 ⚡ Fun fact: <b>Quirky Skills</b>
@@ -40,11 +40,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35"/>
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="35"/>
 </p>
